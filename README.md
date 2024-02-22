@@ -9,6 +9,9 @@ We've harnessed the power of machine learning and Django to create a groundbreak
 ### Final output
 ![Screenshot (610)](https://github.com/injamul3798/ipl_score_prediction/assets/101572467/fee517cf-469b-4e4f-9b5c-ec1a7e9ccd3e)
 
+#### Note
+##### staticfiles/admin is just a folder which is used to save all the components used in this project.We can remove it ,if we want
+
 #### To run this project
 ##### pip install requirments.txt
 ##### Python manage.py runserver
