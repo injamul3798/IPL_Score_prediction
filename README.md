@@ -9,7 +9,11 @@ We've harnessed the power of machine learning and Django to create a groundbreak
 ### Final output
 ![Screenshot (610)](https://github.com/injamul3798/ipl_score_prediction/assets/101572467/fee517cf-469b-4e4f-9b5c-ec1a7e9ccd3e)
 
-
+#### To run this project
+##### pip install requirments.txt
+##### Python manage.py runserver
+##### admin username:admin
+###### admin password: admin
 ### Devloped by 
 #### Injamul Haque
 ##### injamul15-3798@diu.edu.bd
